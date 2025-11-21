@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+prophet
+pandas
+numpy
+requests
+redis
+sqlalchemy
+joblib
